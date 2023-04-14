@@ -1,1 +1,1 @@
-# Calculator-using-Java-AWT
+# TIC-TAC-TOE-using-Java-AWT
